@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Development</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
